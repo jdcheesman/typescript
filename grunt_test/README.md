@@ -12,13 +12,21 @@ http://jessefreeman.com/dev-techniques/automating-typescript-with-node-and-grunt
 
 
 npm install grunt --save-dev
+
 npm install typescript@1.4.1 --save-dev
+
 npm install grunt-typescript --save-dev
+
 npm install grunt-contrib-watch --save-dev
+
 npm install grunt-contrib-connect --save-dev
+
 npm install grunt-open --save-dev
+
 sudo npm install -g grunt-cli
 
 
 --> file GruntFile.js
+
+See also my blog: http://jdcheesman.blogspot.com.es/2015/04/typescript-install-grunt-on-ubuntu.html
 
